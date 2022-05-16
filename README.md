@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 <a href="https://www.php.net" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" width="48" height="48"/> 
 </a> 
+  <a href="https://www.php.net" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-plain.svg" alt="php" width="48" height="48"/> 
+</a> 
   
 <a href="https://getbootstrap.com/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> 
