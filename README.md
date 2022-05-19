@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on ReactJS - Laravel - Node.js project
 - 🌱 I’m currently learning best DevOps practice
-- 💬 Ask me about Javascript, Aws
+- 💬 Ask me about Javascript
 - 📫 How to reach me: mataa.abiguime17@gmail.com
 - ⚡ Fun fact: *I Love automation*
 <!--
