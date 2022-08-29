@@ -58,7 +58,10 @@ Here are some ideas to get you started:
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
 </a>   
 </p>
-
+<h4 align="left">Certifications:</h4>
+<p> 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7451120f-7e32-4fc2-994c-6b41ecf80888" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+</p>
 ### Contact me via 👇
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leroy-mataa-hewa-abiguime/)
