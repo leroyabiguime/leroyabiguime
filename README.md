@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 </p>
 <h4 align="left">Certifications:</h4>
 <p> 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7451120f-7e32-4fc2-994c-6b41ecf80888" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7451120f-7e32-4fc2-994c-6b41ecf80888" data-share-badge-host="https://www.credly.com"></div>
 </p>
 ### Contact me via 👇
 
