@@ -1,6 +1,6 @@
 ### Hi there I am Leroy Mataa-Hewa Abiguime 👋
 
-- 🔭 I’m currently working on ReactJS - Laravel - Node.js project
+- 🔭 I’m currently working on ReactJS - Laravel - Node.js project and devOps
 - 🌱 I’m currently learning Javascript
 - 💬 Ask me about Javascript
 - 📫 How to reach me: mataa.abiguime17@gmail.com
