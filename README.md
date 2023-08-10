@@ -1,19 +1,18 @@
-<!-- ### Hi there I am Leroy Mataa-Hewa Abiguime 👋
+### Hi there I am Leroy Mataa-Hewa Abiguime 👋
 
-- 🔭 I’m currently working on ReactJS - Laravel - Node.js project and devOps
-- 🌱 I’m currently learning Javascript
-- 💬 Ask me about Javascript
+- 🔭 I’m currently working with AWS and GCP
+- 🌱 I’m currently learning Python
+- 💬 Ask me about Terraform
 - 📫 How to reach me: mataa.abiguime17@gmail.com
 - ⚡ Fun fact: *I Love automation*
-<!--
+
 **mataa-hewa-leroy/mataa-hewa-leroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 
--->
 
-<!-- <h4 align="left">Languages and Tools:</h4>
+ <h4 align="left">Languages and Tools:</h4>
 <p>
  <a href="https://reactjs.org/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="48"/> </a>
@@ -62,5 +61,4 @@ Here are some ideas to get you started:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leroy-mataa-hewa-abiguime/)
 [![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter&color=blue)](https://twitter.com/leeroyAb)
- -->
- -->
+
