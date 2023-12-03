@@ -1,7 +1,7 @@
 ### Hi there I am Leroy Mataa-Hewa Abiguime 👋
 
 - 🔭 I’m currently working with AWS and GCP
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, 
 - 💬 Ask me about Terraform
 - 📫 How to reach me: mataa.abiguime17@gmail.com
 - ⚡ Fun fact: *I Love automation*
@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 
  <h4 align="left">Languages and Tools:</h4>
 <p>
-
-<a href="https://www.php.net" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" width="48" height="48"/> 
-</a> 
   <a href="https://www.docker.com/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a> 
