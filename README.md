@@ -1,7 +1,7 @@
 ### Hi there I am Leroy Mataa-Hewa Abiguime 👋
 
 - 🔭 I’m currently working with AWS and GCP
-- 🌱 I’m currently learning Python, 
+- 🌱 I’m currently learning Go, 
 - 💬 Ask me about Terraform
 - 📫 How to reach me: mataa.abiguime17@gmail.com
 - ⚡ Fun fact: *I Love automation*
