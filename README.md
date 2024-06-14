@@ -1,4 +1,4 @@
-### Salam there! I'm Leroy 👋
+### Hello there! I'm Leroy 👋
 
 ## DevOps Engineer | AWS Certified | GCP Certified | | IaC Enthusiast | Cloud Native Enthusiast
 
