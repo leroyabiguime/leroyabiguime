@@ -7,18 +7,18 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong bac
 
 ### 🔧 Technologies and Tools
 
-- **Cloud**: GCP
-- **Cloud**: AWS
+- **Cloud**: GCP, AWS
 - **Containerization**: Docker, Kubernetes
-- **CI/CD**: Jenkins, GitLab CI/CD, GitHub Actions
-- **Configuration Management**: Ansible, Terraform
+- **CI/CD**: Jenkins, CI/CD, GitHub Actions, Cloud Build
+- **Configuration Management**: Terraform
 - **Monitoring**: Prometheus, Grafana, ELK Stack
-- **Scripting**: Bash, Python
+- **Scripting**: Bash, Python, Go
 - **Version Control**: Git, GitHub
 
 ### 🌱 I'm currently learning
 
 - Infrastructure as Code with Pulumni
+- Ansible
 
 ### 👯 I'm looking to collaborate on
 
